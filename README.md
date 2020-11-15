@@ -1,2 +1,2 @@
 # xsnode
-A free High Performance streaming server
+XianShi streaming server
