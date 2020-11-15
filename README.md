@@ -1,2 +1,2 @@
 # xsnode
-XianShi streaming server
+xs means Xianshi, the name of the author.
